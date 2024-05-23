@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I made this to get free Github copilot, I do not like coding.
 <!--
 **Olives2388/Olives2388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
